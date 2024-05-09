@@ -42,7 +42,7 @@ As shown below in the picture the first 5 lines of code connect python to Postgr
 ## SQL Query Execution:
 
 l answered a series of SQL queries which were designed to extract relevant information and perform analysis on the paintings and museums dataset.
-The queries answered these questions below and the answers to the queries can be found in this [SQL file]():
+The queries answered these questions below and the answers to the queries can be found in this [SQL file](https://github.com/maudrues/Musuems_Paintings_data_analysis/blob/main/Famous_paintings_query.sql):
 
 1) Fetch all the paintings which are not displayed on any museums?
 
