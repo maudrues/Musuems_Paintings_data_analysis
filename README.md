@@ -97,13 +97,13 @@ Results from the SQL queries were visualized using the built in Graph Visualiser
 
 
 ![](query14.png)
-From query 14 we can see the top 5 artists with the most number of paintings,with Pierre_Auguste Renoir has the most number of paintings as shown on the bar chart.
+From **query 14** we can see the top 5 artists with the most number of paintings,with Pierre_Auguste Renoir has the most number of paintings as shown on the bar chart.
 
 
 
 
 ![](query20.png)
-From query 20 we can see that The Prado Museum has the most expensive painting as shown in the pie chart.
+From **query 20** we can see that The Prado Museum has the most expensive painting as shown in the pie chart.
 
 
 
@@ -111,14 +111,14 @@ From query 20 we can see that The Prado Museum has the most expensive painting a
 
 - Painting Distribution by Artists:
 The analysis revealed a diverse distribution of paintings across artists, with some artists having a higher number of works compared to others.
-For example as shown above in query 14,Pierre_Auguste Renoir has the most number of paintings
+For example as shown above in **query 14**,Pierre_Auguste Renoir has the most number of paintings
 
 - Museum Collections:
 The total number of paintings in each museum varied significantly, indicating differences in collection size and focus.
 
 - Painting Genres and Trends:
 Analysis of painting genres highlighted trends in artistic preferences and historical periods.The most popular painting style being "Realism", "Post-Impressionism" and "Impressionism".The least popular style being "Japanese Art", "Art Nouveau" and "Avant-Garde"
-(check query 22)
+(check **query 22**)
 
 ## Recommendations:
 
